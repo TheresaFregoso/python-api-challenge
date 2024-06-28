@@ -1,4 +1,6 @@
 # Adding config.py file.
+.env
+
 api_keys.py
 
 # Byte-compiled / optimized / DLL files
